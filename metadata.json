@@ -1,0 +1,6 @@
+{
+  "name": "Learner HAMZA - Advanced Trading Journal & Risk Intelligence",
+  "description": "Advanced trading journal, risk management, and performance intelligence platform for Gold (XAUUSD) and Bitcoin (BTCUSD) traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
